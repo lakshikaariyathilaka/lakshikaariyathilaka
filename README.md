@@ -98,7 +98,7 @@ A website created using HTML and CSS as a web development project.
 
 **Technologies:** HTML, CSS
 
-🔗 [View GitHub Repository](YOUR_GITHUB_LINK)
+🔗 [View GitHub Repository] https://github.com/lakshikaariyathilaka/LuckyBakersWebsite
 
 ---
 
