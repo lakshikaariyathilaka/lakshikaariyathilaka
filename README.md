@@ -68,7 +68,7 @@ A university club website developed as part of a backend development course.
 
 The project demonstrates server-side rendering, web application development, and backend functionality.
 
-🔗 [View GitHub Repository] https://github.com/lakshikaariyathilaka/University-club-website
+🔗 [View GitHub Repository](https://github.com/lakshikaariyathilaka/University-club-website)
 
 ---
 
