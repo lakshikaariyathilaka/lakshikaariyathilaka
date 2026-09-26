@@ -90,7 +90,7 @@ A tourism website created using WordPress, focusing on presenting tourism-relate
 
 **Technology:** WordPress
 
-🔗 [View Project](YOUR_PROJECT_LINK)
+🔗 [View Project](https://github.com/lakshikaariyathilaka/Dream_Destination)
 
 ### 🧁 Lucky Bakers Website
 
@@ -98,7 +98,7 @@ A website created using HTML and CSS as a web development project.
 
 **Technologies:** HTML, CSS
 
-🔗 [View GitHub Repository] https://github.com/lakshikaariyathilaka/LuckyBakersWebsite
+🔗 [View GitHub Repository](https://github.com/lakshikaariyathilaka/LuckyBakersWebsite)
 
 ---
 
