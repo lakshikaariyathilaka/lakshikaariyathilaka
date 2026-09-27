@@ -1,8 +1,11 @@
 # Hi, I'm Lakshika Ariyathilaka 👋
 
 🎓 ICT Engineering Student at Turku University of Applied Sciences Specializing Software Engineering and Project Management
-💻 Software Development | Web & Mobile Applications  
+
+💻 Software Development | Web & Mobile Applications
+
 📋 Project Management | Scrum | Agile | Waterfall
+
 🎨 UI/UX Design | Figma
 
 ## About Me
