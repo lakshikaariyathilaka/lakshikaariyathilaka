@@ -77,7 +77,7 @@ The project demonstrates server-side rendering, web application development, and
 
 ---
 
-### 🏃 FitTrack Event
+### 🏃 FitTrack Mobile Application
 
 FitTrack is a fitness and meal-planning application developed using Microsoft Power Apps. The application allows users to manage weekly workout activities, track workout duration, plan daily meals, use a workout timer, and edit their daily plans.
 
