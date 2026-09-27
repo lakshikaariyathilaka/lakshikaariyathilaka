@@ -28,8 +28,9 @@ A digital marketplace prototype designed to enable direct farmer-to-shop trade i
 - Transportation pickup
 - Sinhala and Tamil language support
 
-🔗 [View GitHub Repository](YOUR_GITHUB_LINK)  
-🎨 [View Figma Prototype](YOUR_FIGMA_LINK)
+🔗 [View GitHub Repository](https://github.com/lakshikaariyathilaka/FarmConnect)  
+🎨 [View Figma Prototype](https://www.figma.com/design/iDw9PYEVSDJyJ0k8RhRJfB/FarmConnect-Hifi?node-id=0-1&t=S8fUTuWydA8QYFXC-1)
+📋 [View Thesis](https://urn.fi/URN:NBN:fi:amk-2026060522656)
 
 ---
 
