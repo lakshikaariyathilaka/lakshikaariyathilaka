@@ -26,10 +26,11 @@ A digital marketplace prototype designed to enable direct farmer-to-shop trade i
 - Messaging
 - Orders
 - Transportation pickup
-- Sinhala and Tamil language support
+- English, Sinhala, and Tamil language support
 
 🔗 [View GitHub Repository](https://github.com/lakshikaariyathilaka/FarmConnect)  
 🎨 [View Figma Prototype](https://www.figma.com/design/iDw9PYEVSDJyJ0k8RhRJfB/FarmConnect-Hifi?node-id=0-1&t=S8fUTuWydA8QYFXC-1)
+
 📋 [View Thesis](https://urn.fi/URN:NBN:fi:amk-2026060522656)
 
 ---
@@ -75,11 +76,13 @@ The project demonstrates server-side rendering, web application development, and
 
 ### 🏃 FitTrack Event
 
-A digital application created using Microsoft Power Apps for an event/tracking concept.
+FitTrack is a fitness and meal-planning application developed using Microsoft Power Apps. The application allows users to manage weekly workout activities, track workout duration, plan daily meals, use a workout timer, and edit their daily plans.
 
-**Technology:** Microsoft Power Apps
+**Technology:** Microsoft Power Apps, Low-Code Development
 
-🎥 [View Demo](YOUR_DEMO_LINK)
+🎥 [View Demo](https://youtu.be/uv0ovQ_5PO8)
+
+🔗 [View GitHub Repository](https://github.com/lakshikaariyathilaka/FitTrack)
 
 ---
 
@@ -170,5 +173,6 @@ Finland
 
 ## Connect With Me
 
-💼 [LinkedIn] www.linkedin.com/in/lakshika-ariyathilaka-55a8652a4 
-💻 [GitHub](YOUR_GITHUB_PROFILE_LINK)
+💼 [LinkedIn](www.linkedin.com/in/lakshika-ariyathilaka-55a8652a4)
+
+💻 [GitHub](https://github.com/lakshikaariyathilaka)
