@@ -40,7 +40,7 @@ A TypeScript application for keeping track of darts scores and game progress.
 
 **Technologies:** TypeScript, HTML, CSS
 
-🔗 [View GitHub Repository](YOUR_GITHUB_LINK)
+🔗 [View GitHub Repository](https://github.com/lakshikaariyathilaka/DartsScoreKeeper)
 
 ---
 
