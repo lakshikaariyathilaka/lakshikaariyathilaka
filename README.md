@@ -173,6 +173,6 @@ Finland
 
 ## Connect With Me
 
-💼 [LinkedIn](www.linkedin.com/in/lakshika-ariyathilaka-55a8652a4)
+💼 [LinkedIn](https://www.linkedin.com/in/lakshika-ariyathilaka-55a8652a4)
 
 💻 [GitHub](https://github.com/lakshikaariyathilaka)
