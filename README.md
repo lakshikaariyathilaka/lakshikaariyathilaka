@@ -149,6 +149,7 @@ A website created using HTML and CSS as a web development project.
 
 - Scrum
 - Agile
+- DevOps
 - Project Management
 - Team Coordination
 - Software Project Development
