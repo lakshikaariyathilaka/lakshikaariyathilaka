@@ -109,6 +109,20 @@ A website created using HTML and CSS as a web development project.
 
 ---
 
+## GitHub Actions & CI/CD
+
+### University Club Website - Node.js CI
+
+Configured a GitHub Actions workflow to automate dependency installation and testing for my Node.js application on every push and pull request.
+
+🔗 [View GitHub Repository](https://github.com/lakshikaariyathilaka/University-club-website)
+
+### GitHub Actions Example
+
+A practice repository exploring GitHub Actions workflows, YAML configuration, automation triggers, and CI/CD fundamentals.
+
+🔗 [View GitHub Repository](https://github.com/lakshikaariyathilaka/Actions_Examples)
+
 ## Skills
 
 ### Programming Languages
