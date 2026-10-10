@@ -4,7 +4,7 @@
 
 💻 Software Development | Web & Mobile Applications
 
-📋 Project Management | Scrum | Agile | Waterfall
+📋 Project Management | Scrum | Agile | Waterfall | DevOps
 
 🎨 UI/UX Design | Figma
 
