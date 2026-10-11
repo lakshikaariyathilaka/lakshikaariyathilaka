@@ -4,13 +4,13 @@
 
 💻 Software Development | Web & Mobile Applications
 
-📋 Project Management | Scrum | Agile | Waterfall | DevOps
+📋 Project Management | Scrum | Agile | Waterfall | DevOps & CI/CD
 
 🎨 UI/UX Design | Figma
 
 ## About Me
 
-I am an ICT Engineering student interested in software development, project management, UI/UX design, and digital solutions.
+I am an ICT Engineering student interested in software development, project management, DevOps, UI/UX design, and digital solutions.
 
 I enjoy building practical applications, developing user-friendly interfaces, working with different technologies, and collaborating in project teams.
 
@@ -48,7 +48,7 @@ A TypeScript application for keeping track of darts scores and game progress.
 
 ---
 
-### 📱 Mobile Application
+### 📱 Mobile Application (Ongoing)
 
 A mobile application developed using React Native and Expo as part of my ICT studies.
 
