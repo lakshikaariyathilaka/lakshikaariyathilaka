@@ -2,6 +2,8 @@
 
 🎓 ICT Engineering Student at Turku University of Applied Sciences Specializing Software Engineering and Project Management
 
+🏆 Turku UAS Student of the Year 2026 – Recognized for academic excellence (Honor), leadership, teamwork, and contribution to the university community.
+
 💻 Software Development | Web & Mobile Applications
 
 📋 Project Management | Scrum | Agile | Waterfall | DevOps & CI/CD
